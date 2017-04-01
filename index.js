@@ -1,5 +1,7 @@
 'use strict';
 
+
+// This is just simple documentation or documentation coverage with Inch CI
 module.exports = function hackerCase(text) {
   var upperCase = false;
 
