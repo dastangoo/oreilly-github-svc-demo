@@ -2,6 +2,7 @@
 
 
 // This is just simple documentation or documentation coverage with Inch CI
+// Comment
 module.exports = function hackerCase(text) {
   var upperCase = false;
 
